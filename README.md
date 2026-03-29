@@ -13,4 +13,4 @@
 - **Tools:** Git, GitHub, Linux
 
 ### 📊 GitHub Stats
-![Dogukan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogukanagca&show_icons=true&theme=dark)
+![Dogukan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogukanagca&show_icons=true&theme=radical&v=1)

@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Doğukan 👋
+### Software Engineering Undergraduate | Backend Developer | C/C++ & Python Specialist
 
-<!--
-**dogukanagca/dogukanagca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently focusing on **Secure Backend Architectures** and **Database Systems**.
+- 🔐 Strong interest in **Cyber Security** and secure coding practices.
+- 🎓 Studying **Software Engineering** (English).
+- ⚡ Fun fact: I enjoy diving deep into low-level memory management in C/C++.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** C, C++, Python
+- **Databases:** Oracle SQL, Relational Database Design
+- **Security:** Network Security, Pentest Fundamentals, Secure Coding
+- **Tools:** Git, GitHub, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Dogukan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogukanagca&show_icons=true&theme=dark)
